@@ -4,7 +4,7 @@ Mini e-commerce sales analysis project using Python and Pandas. Covers four conc
 
 ---------------------------------------------------------------------------
 
-PROJECT-2
+PROJECT-1
 E-Commerce Sales Dashboard
 
 Description
